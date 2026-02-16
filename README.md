@@ -1,6 +1,6 @@
-# Chad Store
+# E-commerece store
 
-Welcome to Chad Store! This is an e-commerce backend project I built specifically with **Mziuri students** to help students master modern web development with Django and REST APIs.
+Welcome to E-commerece store!
 
 ### Core Features
 - **User Management**: Complete authentication system with sign up, email verification, login, and password reset functionality
